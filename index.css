@@ -162,14 +162,14 @@ body::before {
 }
 
 .quote::before {
-    content: '"';
+    content: '«';
     font-size: 1.3rem;
     color: #dc143c;
     margin-right: 2px;
 }
 
 .quote::after {
-    content: '"';
+    content: '»';
     font-size: 1.3rem;
     color: #dc143c;
     margin-left: 2px;
